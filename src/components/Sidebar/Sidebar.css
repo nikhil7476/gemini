@@ -18,6 +18,7 @@
 }
 
 .sidebar .new-chat {
+    width: 100%;
     margin-top: 50px;
     display: inline-flex;
     align-items: center;
